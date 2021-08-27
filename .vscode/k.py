@@ -1,0 +1,2 @@
+object = demo()
+format(object)
